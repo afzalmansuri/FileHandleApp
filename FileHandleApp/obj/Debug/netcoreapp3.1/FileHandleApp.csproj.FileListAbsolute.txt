@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\FileHandleApp\bin\Debug\netcoreapp3.1\FileHandleApp.exe
+C:\Users\DELL\source\repos\FileHandleApp\bin\Debug\netcoreapp3.1\FileHandleApp.deps.json
+C:\Users\DELL\source\repos\FileHandleApp\bin\Debug\netcoreapp3.1\FileHandleApp.runtimeconfig.json
+C:\Users\DELL\source\repos\FileHandleApp\bin\Debug\netcoreapp3.1\FileHandleApp.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\FileHandleApp\bin\Debug\netcoreapp3.1\FileHandleApp.dll
+C:\Users\DELL\source\repos\FileHandleApp\bin\Debug\netcoreapp3.1\FileHandleApp.pdb
+C:\Users\DELL\source\repos\FileHandleApp\obj\Debug\netcoreapp3.1\FileHandleApp.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\FileHandleApp\obj\Debug\netcoreapp3.1\FileHandleApp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\FileHandleApp\obj\Debug\netcoreapp3.1\FileHandleApp.AssemblyInfo.cs
+C:\Users\DELL\source\repos\FileHandleApp\obj\Debug\netcoreapp3.1\FileHandleApp.dll
+C:\Users\DELL\source\repos\FileHandleApp\obj\Debug\netcoreapp3.1\FileHandleApp.pdb
